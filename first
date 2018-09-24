@@ -1,0 +1,10 @@
+scope.participants = [
+	{
+    		name: "Sayantani Bhattacharya",
+    		photo: "https://avatars1.githubusercontent.com/u/43542040?s=40&v=4",
+    		message: "Hello World!",
+    		github: "https://github.com/blambobee",
+    		facebook: "",
+    		email: "sayantani2718@gmail.com",
+	}
+]
